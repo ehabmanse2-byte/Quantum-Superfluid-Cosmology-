@@ -6,6 +6,7 @@
 This repository contains the six reproducible numerical simulation notebooks (Python / Jupyter) and Bayesian Markov Chain Monte Carlo (MCMC) parameter estimation scripts accompanying the research paper:
 
 > **Space-time as a Unified Quantum Fluid Model for Dark Components, Quantum Phenomena, and Ordinary Matter: Theoretical Framework, Mathematical Appendix, and Empirical Benchmarks**  
+[![DOI](https://zenodo.org/badge/1468122572.svg)](https://doi.org/10.5281/zenodo.24452250)
 > **Author:** Ehab Mohamed Abdel Gwad Manse (Independent Researcher, Cairo, Egypt)  
 > **ORCID:** [0009-0009-4846-6188](https://orcid.org)
 
