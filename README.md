@@ -62,12 +62,12 @@ jupyter notebook
 If you use these simulation codes or mathematical formulations in your research, please cite this repository and the accompanying paper:
 
 ```bibtex
-@misc{manse2026udf_code,
+@software{manse2026udf_code,
   author       = {Manse, Ehab Mohamed Abdel Gwad},
   title        = {Space-time as a Unified Quantum Fluid Model: 3D Computational Simulations and Bayesian MCMC Validation},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org}
+  note         = {Archived on Zenodo; see repository badge for permanent DOI}
 }
+
 ```
